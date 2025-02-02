@@ -1,1 +1,1 @@
-# my_first_project-
+# sql_projects
